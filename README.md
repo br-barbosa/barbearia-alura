@@ -1,2 +1,2 @@
-# barbearia_alura
+# barbearia-alura
 Simple HTML and CSS project
